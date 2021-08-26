@@ -1,0 +1,65 @@
+{
+  "name": "foodiz",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@material-ui/core": "^4.11.3",
+    "@material-ui/icons": "^4.11.2",
+    "@material-ui/lab": "^4.0.0-alpha.57",
+    "@testing-library/jest-dom": "^5.11.9",
+    "@testing-library/react": "^11.2.5",
+    "@testing-library/user-event": "^12.6.3",
+    "axios": "^0.21.1",
+    "bootstrap": "^4.6.0",
+    "dotenv": "^8.2.0",
+    "font-awesome": "^4.7.0",
+    "formik": "^2.2.6",
+    "google-maps-react": "^2.0.6",
+    "jwt-decode": "^3.1.2",
+    "lodash": "^4.17.20",
+    "material-auto-rotating-carousel": "^3.0.2",
+    "material-ui-search-bar": "^1.0.0",
+    "materialize-css": "^1.0.0-rc.2",
+    "mongoose": "^5.11.17",
+    "react": "^17.0.1",
+    "react-awesome-slider": "^4.1.0",
+    "react-dom": "^17.0.1",
+    "react-elastic-carousel": "^0.11.1",
+    "react-google-charts": "^3.0.15",
+    "react-responsive": "^8.2.0",
+    "react-router-dom": "^5.2.0",
+    "react-scripts": "4.0.2",
+    "react-swipeable-views": "^0.13.9",
+    "styled-components": "^5.2.1",
+    "web-vitals": "^1.1.0",
+    "yup": "^0.32.9"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "@iconify-icons/mdi": "^1.1.11",
+    "@iconify/react": "^1.1.4"
+  }
+}
